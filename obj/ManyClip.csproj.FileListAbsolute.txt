@@ -1,0 +1,12 @@
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\bin\Release\ManyClip.exe
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Release\ManyClip.MainForm.resources
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Release\ManyClip.csproj.GenerateResource.Cache
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Release\ManyClip.exe
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\bin\Debug\ManyClip.exe
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\bin\Debug\ManyClip.pdb
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Debug\ManyClip.MainForm.resources
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Debug\ManyClip.csproj.GenerateResource.Cache
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Debug\ManyClip.exe
+C:\Documents and Settings\Paul\My Documents\SharpDevelop Projects\ManyClip\obj\Debug\ManyClip.pdb

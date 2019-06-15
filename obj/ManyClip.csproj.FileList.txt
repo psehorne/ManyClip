@@ -1,0 +1,12 @@
+bin\Debug\ManyClip.exe
+bin\Debug\ManyClip.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ManyClip.MainForm.resources
+obj\Debug\ManyClip.csproj.GenerateResource.Cache
+obj\Debug\ManyClip.exe
+obj\Debug\ManyClip.pdb
+bin\Release\ManyClip.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ManyClip.MainForm.resources
+obj\Release\ManyClip.csproj.GenerateResource.Cache
+obj\Release\ManyClip.exe

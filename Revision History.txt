@@ -1,0 +1,32 @@
+ManyClip @Copyright 2007 Paul F. Sehorne
+Revision History
+
+Changes from version 1.1.0.0037 to x.x.x.x
+
+03/13/2007 BackgroundWorker not being stopped and started by buttonStart.  In the past it continued to live just checking periodically to see if CaptureEnabled had been set back to true.
+
+Changes from version 0.0.3.0(beta) to 1.1.0.0037
+03/13/2007 Changed version from 1.1.0.0034 to 1.0.0.37 (trying to sync version build with Subversion revision
+03/13/2007 Changed version from 0.0.3.0(beta) to 1.1.0.0034.  First non-beta release.  Made only changes to font and window size, and placement of controls.
+
+Changes from version 0.0.3(beta) to 0.0.3.0(beta) 03/11/2007 (mostly cosmetic changes, no functional changes)
+    1. Changed version to four digits to confirm with .Net AssemblyInfo style.  Version now 0.0.3.0 Version, Release, Fix, Build
+    2. Changed font. 
+    3. Add AssemblyInfo like CompanyName, Copyright, Comment.  
+    4. Added icon. 
+    5. Changed font.  
+    6. Adjusted window size. 
+
+Changes from version 0.0.2(beta) to 0.0.3(beta) 03/11/2007
+    1. Design Change 8 and 9 - Removing Marked item - next item down slides up to replace the removed item.
+    2. ManyClip now starts up with capture enabled, capture button background green, and text of the button "Stop              Capturing...".  Clicking the button disables capturing, turns the background red, and changes the text to "Start             Capturing..." 
+    3. Changed main window name from ManyClip2 to ManyClip
+
+Changes from version 0.0.1(beta) to 0.0.2(beta)
+    Now adding most recent it to top of ListBox instead of bottom.  
+    ButtonStartClick method now adding first item to list and selecting the item.
+    ButtonRemove now selects top item after removing item selected
+    Changed text of pop-up MessageBoxes
+    Copy Marked Item to Clipboard no longer presents "Done" popup.  Visual clue is item appears at the top of the list
+
+03-03-2007 01:09:28 AM CST Initial release v0.0.1(beta)
